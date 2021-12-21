@@ -17,6 +17,7 @@ public class MyProj {
 			e.printStackTrace();
 		}
 		System.out.println(text);
+		System.out.println("changed commit");
 		return text;
 	
 	}
